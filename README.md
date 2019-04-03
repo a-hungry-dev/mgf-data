@@ -1,2 +1,3 @@
-# mgf-web
-My Garment Factory Web App
+# mgf-data
+
+My Garment Factory Data App
