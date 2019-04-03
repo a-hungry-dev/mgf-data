@@ -3,4 +3,5 @@
 report.xml
 package-lock.json
 node_app/package-lock.json
+node_modules
 **/node_modules
